@@ -1,4 +1,6 @@
 
+# solution to https://open.kattis.com/problems/stararrangements
+
 def checkSolution(a, b, n, iterative=True):
     if (a < b):
         print("Put the larger number first")
